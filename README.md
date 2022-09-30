@@ -15,7 +15,7 @@ I have created a informational bot named "currency-bot" using Html and services 
 - Has many features and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of pages including Home, About, Contact, ChatBot, F.A.Q and education (Ms Azure) realted information.
-- User can know about information on Ms Azure through this bot.
+- User can know about information on currency through this bot.
 - Included the contact information to increase scope of improvement.
 
 ## About ChatBot 💬: 
