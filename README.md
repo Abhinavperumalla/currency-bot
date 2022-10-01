@@ -29,13 +29,13 @@ I have created a informational bot named "currency-bot" using Html and services 
 
 ## Screenshorts:
 ### Home Page 
-![homepage](https://user-images.githubusercontent.com/110820099/189345964-1b4ac1a3-89f9-41ea-acfa-8eb6a62f4fde.png)
+![homepage]()
 
 ### Gallery Page
-![gallery page](https://user-images.githubusercontent.com/110820099/189346354-4d70d42b-c219-4091-bba1-0d018ea0a39e.png)
+![gallery page]()
 
 ### About Chat Bot 
-![About chat bot](https://user-images.githubusercontent.com/110820099/189346579-caae4531-311d-4d29-b627-9dceb0001e40.png)
+![About chat bot]()
 
 ### About Page
 ![about page](https://user-images.githubusercontent.com/110820099/189346754-69bfb86a-31ed-4552-bbde-d53775d95e78.png)
