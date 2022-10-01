@@ -32,7 +32,7 @@ I have created a informational bot named "currency-bot" using Html and services 
 ![homepage](https://user-images.githubusercontent.com/113104912/193407117-961bf87c-b1c8-4e38-b05b-3368739a97d9.jpeg)
 
 ### Gallery Page
-![gallery page]()
+![gallery page]((https://user-images.githubusercontent.com/113104912/193407122-881bc4cb-2d71-4bc5-8ead-9f6344c82dcf.jpeg))
 
 ### About Chat Bot 
 ![About chat bot]()
