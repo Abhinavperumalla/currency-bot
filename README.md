@@ -29,7 +29,7 @@ I have created a informational bot named "currency-bot" using Html and services 
 
 ## Screenshorts:
 ### Home Page 
-![homepage]()
+![homepage](https://user-images.githubusercontent.com/113104912/193407117-961bf87c-b1c8-4e38-b05b-3368739a97d9.jpeg)
 
 ### Gallery Page
 ![gallery page]()
