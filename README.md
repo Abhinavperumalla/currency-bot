@@ -35,21 +35,7 @@ I have created a informational bot named "currency-bot" using Html and services 
 ![gallery page]((https://user-images.githubusercontent.com/113104912/193407122-881bc4cb-2d71-4bc5-8ead-9f6344c82dcf.jpeg))
 
 ### About Chat Bot 
-![About chat bot]()
+![About chat bot]((https://user-images.githubusercontent.com/113104912/193407124-d33c6f2b-bbe7-40a5-8433-9e17388f3026.jpeg))
 
 ### About Page
-![about page](https://user-images.githubusercontent.com/110820099/189346754-69bfb86a-31ed-4552-bbde-d53775d95e78.png)
-
-### FAQ Page
-![Screenshot 2022-09-09 173108](https://user-images.githubusercontent.com/110820099/189346962-c7e59c77-3836-46d0-bba1-ccfdb4ab8743.png)
-
-### Chat Bot Page
-![chat bot page](https://user-images.githubusercontent.com/110820099/189347166-48cf0e3a-7a00-4b54-ae6f-b105afe035d4.png)
-
-### Contact Page
-![contact page](https://user-images.githubusercontent.com/110820099/189347309-78addadc-e569-4368-aa44-0899923d0d6e.png)
-
-
-
-
-
+![about page] 
